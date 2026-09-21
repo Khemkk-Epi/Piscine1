@@ -1,1 +1,1 @@
-ls -XmF -I .
+ls -X -p -m 
